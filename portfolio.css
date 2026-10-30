@@ -3,6 +3,7 @@
     --rose: #C04455;
     --blush: #E8ACB4;
     --sage: #8B9E7D;
+    --dark-green: #3F5F46;
     --charcoal: #3E3E3E;
     --cream: #F5F1E8;
     --white: #FFFFFF;
@@ -176,7 +177,7 @@ nav {
 
 .hero-text .tagline {
     font-size: 1.3rem;
-    color: var(--sage);
+    color: var(--dark-green);
     margin-bottom: 30px;
     font-weight: 500;
     line-height: 1.5;
@@ -322,7 +323,7 @@ section {
 
 .section-header p {
     font-size: 1.2rem;
-    color: var(--sage);
+    color: var(--dark-green);
     max-width: 600px;
     margin: 0 auto;
 }
@@ -583,7 +584,7 @@ section {
 .cert-issuer {
     font-size: 0.75rem;
     font-weight: 700;
-    color: var(--sage);
+    color: var(--dark-green);
     text-transform: uppercase;
     letter-spacing: 0.07em;
     display: block;
